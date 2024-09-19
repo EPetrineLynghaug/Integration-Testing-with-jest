@@ -1,0 +1,1 @@
+// jest.setup.js (optinal) - om du har flere typer testfil
